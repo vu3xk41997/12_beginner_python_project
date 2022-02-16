@@ -4,14 +4,14 @@ Projects from freecodecamp:
 
 ## Projects
 - [x] Madlibs
-- [x]Guess the Number (computer)
-- [x]Guess the Number (user)
-- [ ]Rock Paper Scissors
-- [ ]Hangman
-- [ ]Tic-Tac-Toe
-- [ ]Tic-Tac-Toe AI
-- [ ]Binary Search
-- [ ]Minesweeper
-- [ ]Sudoku Solver
-- [ ]Photo Manipulation in Python
-- [ ]Markov Chain Text Composer
+- [x] Guess the Number (computer)
+- [x] Guess the Number (user)
+- [ ] Rock Paper Scissors
+- [ ] Hangman
+- [ ] Tic-Tac-Toe
+- [ ] Tic-Tac-Toe AI
+- [ ] Binary Search
+- [ ] Minesweeper
+- [ ] Sudoku Solver
+- [ ] Photo Manipulation in Python
+- [ ] Markov Chain Text Composer
