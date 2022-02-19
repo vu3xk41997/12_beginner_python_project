@@ -6,8 +6,8 @@ Projects from freecodecamp:
 - [x] Madlibs
 - [x] Guess the Number (computer)
 - [x] Guess the Number (user)
-- [ ] Rock Paper Scissors
-- [ ] Hangman
+- [x] Rock Paper Scissors
+- [x] Hangman
 - [ ] Tic-Tac-Toe
 - [ ] Tic-Tac-Toe AI
 - [ ] Binary Search
