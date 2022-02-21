@@ -8,7 +8,7 @@ Projects from freecodecamp:
 - [x] Guess the Number (user)
 - [x] Rock Paper Scissors
 - [x] Hangman
-- [ ] Tic-Tac-Toe
+- [X] Tic-Tac-Toe
 - [ ] Tic-Tac-Toe AI
 - [ ] Binary Search
 - [ ] Minesweeper
